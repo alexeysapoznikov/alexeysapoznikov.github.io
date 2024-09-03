@@ -1,0 +1,9 @@
+.container_main {
+    width: 600px;
+    height: 800px;
+    border: 1px solid red;
+}
+
+body {
+    color: black;
+}
